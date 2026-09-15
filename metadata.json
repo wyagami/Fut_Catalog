@@ -1,0 +1,6 @@
+{
+  "name": "FutCatalog",
+  "description": "Um catálogo completo para gerenciar jogadores de futebol, com upload de fotos local, estatísticas detalhadas, histórico de transferências e emissão de relatórios mensais em PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
